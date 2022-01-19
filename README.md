@@ -56,10 +56,10 @@ Languages and Tools:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadirhussainnn&show_icons=true&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/HaseebUllahAbbasi)  
+![GitHub metrics](https://metrics.lecoq.io/nadirhussainnn)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HaseebUllahAbbasi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)  
