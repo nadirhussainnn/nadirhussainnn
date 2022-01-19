@@ -9,7 +9,7 @@
 </h3>
 
 - 🔭 I’m currently working on  **Flutter and React Native cross platform mobile app development**. 
-- 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
+- 👯 I’m looking to collaborate on **Java, NodeJS and Web Applicaiotions**  
 - 📫 How to reach me **nadirhussaintumrani@gmail.com**
 ![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
 
@@ -62,4 +62,4 @@ Languages and Tools:
 
 ![GitHub metrics](https://metrics.lecoq.io/nadirhussainnn)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)
