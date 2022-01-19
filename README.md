@@ -10,7 +10,6 @@ Skills: MERN Stack | Android | Java| C++ C | Mysql/PostgreSql/MongoDB |  Visual 
 
 - 🔭 I’m currently working on  **Flutter and React Native cross platform mobile app development**. 
 - 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
-- 💬 Ask me about **Java & Full Stack Web Development**.  
 - 📫 How to reach me **nadirhussaintumrani@gmail.com**
 ![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
 
