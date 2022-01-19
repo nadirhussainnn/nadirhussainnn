@@ -12,7 +12,7 @@ Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS
 - 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
 - 📫 How to reach me **nadirhussaintumrani@gmail.com**
-![Profile views](https://gpvc.arturio.dev/)  
+![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadirhussainnn)](https://github.com/ryo-ma/github-profile-trophy)
