@@ -8,7 +8,7 @@
 Skills: MERN Stack | Android | Java| C++ C | Mysql/PostgreSql/MongoDB |  Visual Programming C# | Git - Github | HTML5 CSS3 JS JQuery| Material-UI Bootstrap PrimeReact Semantic-UI
 
 
-- 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
+- 🔭 I’m currently working on  **Flutter and React Native cross platform mobile app development**. 
 - 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
 - 📫 How to reach me **nadirhussaintumrani@gmail.com**
