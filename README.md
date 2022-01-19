@@ -16,7 +16,7 @@
 **------------------------------------------------------------------**
 
 [ <img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/nadirhussainnn)  [<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/nadir-hussain-206b2319b/) [<img src="https://img.icons8.com/nolan/64/twitter.png" alt='twitter' height='40'>](https://twitter.com/Nadir_hussainnn)
-[<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](nadirhussaintumrani@gmail.com)
+[<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://nadirhussaintumrani@gmail.com/)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadirhussainnn)](https://github.com/ryo-ma/github-profile-trophy)
