@@ -5,7 +5,7 @@
 
 
 
-Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS  | React | C Family | Docker
+Skills: MERN Stack | Android | Java| C++ C | Mysql/PostgreSql/MongoDB |  Visual Programming C# | Git - Github | HTML5 CSS3 JS JQuery| Material-UI Bootstrap PrimeReact Semantic-UI
 
 
 - 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
