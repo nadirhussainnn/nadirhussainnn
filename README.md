@@ -11,7 +11,7 @@ Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS
 - 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
 - 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
-- 📫 How to reach me **haseebabbasi00@gmail.com**
+- 📫 How to reach me **nadirhussaintumrani@gmail.com**
 ![Profile views](https://gpvc.arturio.dev/)  
 
 
