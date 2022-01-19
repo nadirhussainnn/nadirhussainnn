@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**nadirhussainnn/nadirhussainnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, It's me Nadir Hussain</h1>
 
-Here are some ideas to get you started:
+<h3 align="center"> I am highly motivated and energetic Computer Science student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS  | React | C Family | Docker
+
+
+- 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
+- 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
+- 💬 Ask me about **Java & Full Stack Web Development**.  
+- 📫 How to reach me **haseebabbasi00@gmail.com**
+![Profile views](https://gpvc.arturio.dev/)  
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadirhussainnn)](https://github.com/ryo-ma/github-profile-trophy)
