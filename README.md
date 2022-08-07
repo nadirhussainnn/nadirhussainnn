@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **Java, NodeJS and Web Applicaiotions**  
 ![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
 
-<h1 align="center">
-------------------------------------------------------------------------</h1>
 
 
 - 📫 Reach me at
@@ -79,22 +77,21 @@ Languages and Tools:
 </tbody>
 </table>
 
- 
-
- 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/nadirhussain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn)](https://github.com/nadirhussainnn/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadirhussainnn&show_icons=true&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/nadirhussainnn)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/nadirhussain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
