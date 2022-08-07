@@ -1,16 +1,12 @@
 
 <h1 align="center">Hi there 👋, It's me Nadir Hussain</h1>
 
-<h3 align="center"> I am highly motivated and energetic Computer Science student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
+<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in learning by solving problems, through online platforms and working among expert developers. Eager to perform valuable work using my skills. </h3>
 
 
 <h1 align="center"> My Skills </h1>
 <h3 align="center">MERN Stack | Android | Java| C++ C | Mysql/PostgreSql/MongoDB |  Visual Programming C# | Git - Github | HTML5 CSS3 JS JQuery| Material-UI Bootstrap PrimeReact Semantic-UI
 </h3>
-
-- 🔭 I’m currently working on  **Flutter and React Native cross platform mobile app development**. 
-- 👯 I’m looking to collaborate on **Java, NodeJS and Web Applicaiotions**  
-![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
 
 
 
@@ -21,13 +17,15 @@
 [<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://nadirhussaintumrani@gmail.com/)
 
 
+![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadirhussainnn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Languages and Tools:
 <table>
 <tbody>
-    <tr>
+    <tr style="background-color:white">
         <td>
             <a href="https://www.java.com" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -77,21 +75,14 @@ Languages and Tools:
 </tbody>
 </table>
 
+| <a href="https://github.com/nadirhussainnn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirhussainnn&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn)](https://github.com/nadirhussainnn/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadirhussainnn&show_icons=true&theme=dark)  
-
-![GitHub metrics](https://metrics.lecoq.io/nadirhussainnn)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea
 
 <a href="https://www.buymeacoffee.com/nadirhussain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
