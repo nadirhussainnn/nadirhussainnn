@@ -5,7 +5,7 @@
 
 
 <h1 align="center"> My Skills </h1>
-<h3 align="center">MERN Stack | Android | Java| C++ C | Mysql/PostgreSql/MongoDB |  Visual Programming C# | Git - Github | HTML5 CSS3 JS JQuery| Material-UI Bootstrap PrimeReact Semantic-UI
+<h3 align="center">Javascript | Typescript | ReactJS | NextJS | React Native | NodeJS | ExpressJS | MUI | AntD | TailwindCSS | Bootstrap | PrimeReact | Semantic-UI | MongoDB | MySql | Postgres | Sequelize | Android | Java | Git - Github | HTML5 CSS3 JS JQuery
 </h3>
 
 
