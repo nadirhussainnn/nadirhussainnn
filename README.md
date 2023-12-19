@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi there 👋, It's me Nadir Hussain</h1>
 
-<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in learning by solving problems, through online platforms and working among expert developers. Eager to perform valuable work using my skills. </h3>
+<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with LLMs, Open AI. I am always looking forward to collaborate and contribute on exciting projects. </h3>
 
 
 <h1 align="center"> My Skills </h1>
-<h3 align="center">Javascript | Typescript | ReactJS | NextJS | React Native | NodeJS | ExpressJS | MUI | AntD | TailwindCSS | Bootstrap | PrimeReact | Semantic-UI | MongoDB | MySql | Postgres | Sequelize | Android | Java | Git - Github | HTML5 CSS3 JS JQuery
+<h3 align="center"> Javascript | Python | Typescript | ReactJS | NextJS | React Native | NodeJS | ExpressJS | Fast API | Django | UI Libraries | MongoDB | MySql | Postgres | Sequelize/Knex | DevOps | CICD | Git - Github
 </h3>
 
 
