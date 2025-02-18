@@ -11,10 +11,10 @@
 
 📫 Find me here
 <div align="center" style="display:flex; align-items:center;justify-ceontent:center">
-    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>
-    <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > &nbsp;G-mail</a>
-    <a href="https://github.com/nadirhussainnn" target="_blank"> &nbsp;Github </a>
-    <a href="https://twitter.com/Nadir_hussainnn" target="_blank" > &nbsp;X - Twitter</a>
+    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>&nbsp;
+    <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>&nbsp;
+    <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>&nbsp;
+    <a href="https://twitter.com/Nadir_hussainnn" target="_blank" > X - Twitter</a>&nbsp;
 </div>
 
 Languages and Tools:
