@@ -10,8 +10,8 @@
 
 
 📫 Find me here
-<div align="center" style="display:flex; align-items:center;justify-ceontent:center; row-gap:10; column-gap:10">
-    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>
+<div align="center" style="display:flex; align-items:center;justify-ceontent:center">
+    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank" style="margin-right:10px"> LinkedIn </a>
     <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>
     <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>
     <a href="https://twitter.com/Nadir_hussainnn" target="_blank" > X - Twitter</a>
