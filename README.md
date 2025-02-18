@@ -12,10 +12,7 @@
 
 - 📫 Reach me at
 <div align="center">
-[
-    <img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>
-    ](https://github.com/nadirhussainnn)  
-[
+<a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>
     <img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>
     ](https://www.linkedin.com/in/nadir-hussain-206b2319b/) 
 [<img src="https://img.icons8.com/nolan/64/twitter.png" alt='twitter' height='40'>
