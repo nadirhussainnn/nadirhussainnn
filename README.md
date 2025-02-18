@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, It's me Nadir </h1>
 
-<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with ML, Deep Learning and NLP. I am always looking forward to collaborate and contribute on exciting projects. </h3>
+<h5 align="center"> I am highly motivated and energetic Computer Science graduate who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with ML, Deep Learning and NLP. I am always looking forward to collaborate and contribute on exciting projects. </h5>
 
 
 <h1 align="center"> Skills Practiced Widely </h1>
@@ -9,9 +9,8 @@
 </h3>
 
 
-
-- 📫 Reach me at
-<div align="center" style="display:flex; align-items:center;justify-ceontent:center;">
+📫 Find me here
+<div align="center" style="display:flex; align-items:center;justify-ceontent:center; gap:'10px';">
     <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>
     <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>
     <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>
