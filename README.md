@@ -11,15 +11,11 @@
 
 
 - 📫 Reach me at
-<div align="center">
-<a href="https://github.com/nadirhussainnn" target="blank"> Github </a>
-    <img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>
-    ](https://www.linkedin.com/in/nadir-hussain-206b2319b/) 
-[<img src="https://img.icons8.com/nolan/64/twitter.png" alt='twitter' height='40'>
-    ](https://twitter.com/Nadir_hussainnn)
-[
-    <img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>
-    ](https://nadirhussaintumrani@gmail.com/)
+<div align="center" style="display:flex; align-items:center;justify-ceontent:center;">
+    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>
+    <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>
+    <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>
+    <a href="https://twitter.com/Nadir_hussainnn" target="_blank" > X - Twitter</a>
 </div>
 
 Languages and Tools:
