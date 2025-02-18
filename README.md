@@ -1,26 +1,22 @@
 
-<h1 align="center">Hi there 👋, It's me Nadir Hussain</h1>
+<h1 align="center">Hi 👋, It's me Nadir </h1>
 
-<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with LLMs, Open AI. I am always looking forward to collaborate and contribute on exciting projects. </h3>
+<h3 align="center"> I am highly motivated and energetic Computer Science graduate who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with ML, Deep Learning and NLP. I am always looking forward to collaborate and contribute on exciting projects. </h3>
 
 
-<h1 align="center"> My Skills </h1>
-<h3 align="center"> Javascript | Python | Typescript | ReactJS | NextJS | React Native | NodeJS | ExpressJS | Fast API | Django | UI Libraries | MongoDB | MySql | Postgres | Sequelize/Knex | DevOps | CICD | Git - Github
+<h1 align="center"> Skills Practiced Widely </h1>
+<h3 align="center"> Javascript (React, Next, Vite, Node, Express) | Python (Django, FastAPI) | Typescript (Nest, Next) | Go (Gin, Mux) | DBs (Mongo,Postgres, Mysql) | AI (ML,DL,NLP,LLMs)
 </h3>
 
 
 
 - 📫 Reach me at
-
-[ 
-    <img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/nadirhussainnn)  [<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/nadir-hussain-206b2319b/) [<img src="https://img.icons8.com/nolan/64/twitter.png" alt='twitter' height='40'>](https://twitter.com/Nadir_hussainnn)
+<div align="center">
+[<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/nadirhussainnn)  
+[<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/nadir-hussain-206b2319b/) 
+[<img src="https://img.icons8.com/nolan/64/twitter.png" alt='twitter' height='40'>](https://twitter.com/Nadir_hussainnn)
 [<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://nadirhussaintumrani@gmail.com/)
-
-
-![Profile views](https://gpvc.arturio.dev/nadirhussainnn)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nadirhussainnn)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 
 Languages and Tools:
 <table>
