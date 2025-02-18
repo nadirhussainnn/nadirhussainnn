@@ -10,7 +10,7 @@
 
 
 📫 Find me here
-<div align="center" style="display:flex; align-items:center;justify-ceontent:center; gap:'10px';">
+<div align="center" style="display:flex; align-items:center;justify-ceontent:center; gap:10px;">
     <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>
     <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>
     <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>
