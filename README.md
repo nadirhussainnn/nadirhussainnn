@@ -1,67 +1,69 @@
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<h1 align="center">Hi 👋, It's me Nadir </h1>
+###
 
-<h5 align="center"> I am highly motivated and energetic Software Engineer who believes in developing Full Stack apps with cutting edge technologies. I love to empower systems with AI and hence have got experience with ML, Deep Learning and NLP. I am always looking forward to collaborate and contribute on exciting projects. </h5>
+<p align="center">I'm Nadir — a Full Stack Software Engineer with a strong background in building end-to-end applications, from frontend to backend to deployment. I'm passionate about distributed systems and AI, and recently expanded my tech stack with Java, Angular, and Docker to develop scalable, modern software solutions across platforms.</p>
 
+###
 
-<h1 align="center"> Skills Practiced Widely </h1>
-<h3 align="center"> Javascript (React, Next, Vite, Node, Express) | Python (Django, FastAPI) | Typescript (Nest, Next) | Go (Gin, Mux) | DBs (Mongo,Postgres, Mysql) | AI (ML,DL,NLP,LLMs)
-</h3>
+<h3 align="center">🧰 Languages , Frameworks, Libs and Tools</h3>
 
-
-📫 Find me here
-<div align="center" style="display:flex; align-items:center;justify-ceontent:center">
-    <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank"> LinkedIn </a>&nbsp;
-    <a href="https://nadirhussaintumrani@gmail.com/" target="_blank" > G-mail</a>&nbsp;
-    <a href="https://github.com/nadirhussainnn" target="_blank"> Github </a>&nbsp;
-    <a href="https://twitter.com/Nadir_hussainnn" target="_blank" > X - Twitter</a>&nbsp;
-</div>
-
-Languages and Tools:
-<table>
-<tbody>
-    <tr style="background-color:white">
-                <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </td>
-        <td>
-            <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-        </td>
-        <td>
-            <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-        </td>
-        <td>
-            <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" background="red" height="40"/> </a>
-        </td>
-        <td>
-            <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-        </td>
-        <td>
-            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-        </td>
-        <td>
-            <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-        </td>
-        <td>
-            <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-        </td>
-        <td> 
-            <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-        </td>    
-    </tr>
-</tbody>
+<table align="center">
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br/>Java</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>Python</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>TypeScript</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>JavaScript</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br/>Node.js</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" /><br/>Django</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /><br/>FastAPI</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br/>React</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /><br/>Angular</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br/>Next.js</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br/>HTML5</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br/>CSS3</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br/>PostgreSQL</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br/>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40" height="40" alt="AWS" /><br/>AWS</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br/>Git</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br/>GitHub</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /><br/>GitLab</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="Insomnia" /><br/>Insomnia</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br/>PyTorch</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" height="40" alt="docker logo"  /><br /> Docker</td>
+  </tr>
 </table>
 
-| <a href="https://github.com/nadirhussainnn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nadirhussainnn&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/nadirhussainnn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirhussainnn&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+###
+<h3 align="center">Say hello!👋🏻</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nadir-hussain-206b2319b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/nadirhussainnn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="discordapp.com/users/778465958955712594" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
+###
+<h3 align="center">What I have been doing ❓</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nadirhussainnn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=12&order=3" height="150" alt="streak graph"  />
+</div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadirhussainnn)
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadirhussainnn/nadirhussainnn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadirhussainnn/nadirhussainnn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nadirhussainnn/nadirhussainnn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
