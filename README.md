@@ -53,7 +53,7 @@
 </div>
 
 ###
-<h3 align="center">What I have been doing ❓</h3>
+<h3 align="center">Suport me if you like any of my projects </h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nadirhussainnn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=12&order=3" height="150" alt="streak graph"  />
+<a href="https://www.buymeacoffee.com/nadirhussain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
