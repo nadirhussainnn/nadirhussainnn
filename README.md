@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:nadirhussaintumrani@gmail.com">
+  <a href="mailto:nadirhussaintumrani@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email" />
   </a>
   <a href="https://linkedin.com/in/nadirhussainnn" target="_blank">
@@ -30,7 +30,6 @@
 ## 💼 Work Experience
 
 <table>
-  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="120" align="center" valign="top">
       <br/>
@@ -47,7 +46,7 @@
       • Engineered fault-tolerant Celery billing pipeline - zero payment failures across all renewal cycles
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
+
   <tr>
     <td width="120" align="center" valign="top">
       <br/>
@@ -65,7 +64,6 @@
       • Integrated Square and Stripe payment gateways, managing full deployment lifecycle
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="120" align="center" valign="top">
       <br/>
@@ -82,7 +80,6 @@
       • Optimized PostgreSQL, MongoDB, and Redis across 3+ client platforms
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="120" align="center" valign="top">
       <br/>
