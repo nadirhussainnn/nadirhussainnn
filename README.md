@@ -154,11 +154,11 @@
   <tr>
     <td valign="top" width="60" align="center">
       <br/>
-      <img src="assets/unifi.svg" width="45" alt="University of Florence" onerror="this.src='assets/uniflorenze.png'"/>
+      <img src="assets/unifi.png" width="45" alt="University of Florence" onerror="this.src='assets/uniflorenze.png'"/>
     </td>
     <td valign="top">
       <b>M.S. Software Science and Technology</b><br/>
-      University of Florence, Italy &nbsp;·&nbsp; <i>Sep 2024 – Sep 2026</i> &nbsp;·&nbsp; GPA: 29.27/30
+      University of Florence, Italy &nbsp;·&nbsp; <i>Sep 2024 – Jul 2026</i>
       <br/><br/>
       <blockquote>
       <b>Thesis:</b> Full-Stack Observability in Kubernetes: A Comparative Experimental Study of Dynatrace and
@@ -171,7 +171,6 @@ Open-Source Alternatives for Cloud-Native Microservices
       </blockquote>
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td valign="top" width="60" align="center">
       <br/>
@@ -182,7 +181,6 @@ Open-Source Alternatives for Cloud-Native Microservices
       Bialystok University of Technology, Poland &nbsp;·&nbsp; <i>Oct 2025 – Feb 2026</i>
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td valign="top" width="60" align="center">
       <br/>
@@ -191,7 +189,7 @@ Open-Source Alternatives for Cloud-Native Microservices
     <td valign="top">
       <b>B.S. Computer Science</b><br/>
       Sukkur IBA University, Pakistan &nbsp;·&nbsp; <i>Aug 2018 – Jul 2022</i> &nbsp;·&nbsp; GPA: 3.73/4.0<br/>
-      <b>Gold Medal — First Position, Class of 2022</b>
+      <b>Gold Medal - Class of 2022</b>
     </td>
   </tr>
 </table>
